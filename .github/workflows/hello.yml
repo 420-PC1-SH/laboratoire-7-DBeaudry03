@@ -10,5 +10,5 @@ jobs:
     runs-on: ubontu-20.04
     steps:
       - name: Say hello
-        run:
+        run: |
           echo "Hello World!"
